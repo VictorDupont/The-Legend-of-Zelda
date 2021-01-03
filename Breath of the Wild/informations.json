@@ -5,6 +5,7 @@
     "genre": ["Adventure", "Other", "Action", "Role-Playing"],
     "platforms": ["Nintendo Switch", "Nintendo Wii U"],
     "players": 1,
+    "pegi": 12,
     "supported_languages": ["English", "German", "French", "Spanish", "Dutch", "Italian", "Russian"],
     "supported_languages_download_version": ["German", "English", "Spanish", "French", "Italian", "Japanese", "Korean", "Dutch", "Russian", "Chinese"],
     "supported_play_mod": ["TV mode", "Tabletop mode", "Handheld mode"],
