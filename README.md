@@ -1,3 +1,7 @@
 # The Legend of Zelda series repository.
 
-Only containing assets of games for the moment !
+Containing :
+- Breath of the wild assets and informations
+- All The Legend of Zelda amiibo images
+
+More soon !
