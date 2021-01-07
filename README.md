@@ -12,3 +12,5 @@ Series :
 - All The Legend of Zelda amiibo images.
 
 More soon ! (Others games in the Zelda series with assets and informations)
+
+Hyrule Warriors: Age of Calamity will be added very soon.
